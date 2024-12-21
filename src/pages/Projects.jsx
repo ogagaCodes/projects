@@ -6,7 +6,13 @@ const projectData = [
     company: "Ajua",
     project: "MTN Engage App",
     description: "Backend for microservices hosted on AWS ECR and EKS.",
-    links: {dashboard:"https://ajua.com/"},
+    links: { dashboard: "https://ajua.com/" },
+  },
+  {
+    company: "Bii",
+    project: "Bii MArketplace",
+    description: "Sustainable marketp[ace].",
+    links: { dashboard: "https://bii.earth/" },
   },
   {
     company: "Admoni",
@@ -18,7 +24,25 @@ const projectData = [
     company: "Mixpeek",
     project: "Mixpeek SDK",
     description: "Development of the Mixpeek SDK and engine.",
-    links: {dashboard:"https://mixpeek.com/"},
+    links: { dashboard: "https://mixpeek.com/" },
+  },
+  {
+    company: "Research Buddy",
+    project: "Reserach Buddy",
+    description: "Crypto Research Tool",
+    links: { dashboard: "https://researchbuddy.io/" },
+  },
+  {
+    company: "DEKAMCO",
+    project: "DEKAMCO Cloud Solution",
+    description: "Cloud solution for DEKAMCO",
+    links: { dashboard: "https://dekam.co/" },
+  },
+  {
+    company: "Broadcaad Ltd",
+    project: "Braodcaad",
+    description: "Crypto Research Tool",
+    links: { dashboard: "https://broadcaad.com/" },
   },
 ];
 
