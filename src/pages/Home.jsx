@@ -32,6 +32,12 @@ const Home = () => (
         time="AUGUST 2024 - PRESENT"
         description="Develop and maintain robust platform architectures to support Mixpeek’s AI vector processing engine."
       />
+      <ExperienceItem
+        role="Senior Platform Engineer"
+        company="Mixpeek"
+        time="AUGUST 2024 - PRESENT"
+        description="Develop and maintain robust platform architectures to support Mixpeek’s AI vector processing engine."
+      />
       {/* Add more experience items */}
     </Section>
     <Section title="Education">
