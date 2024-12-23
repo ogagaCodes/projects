@@ -38,7 +38,7 @@
             "last 1 safari version"
         ]
     },
-    "homepage": "https://ogagaCodes.github.io/projects",
+    "homepage": "https://ogagaCodes.github.io/",
     "devDependencies": {
         "gh-pages": "^5.0.0"
     }
