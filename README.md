@@ -23,4 +23,4 @@ Details on how to get in touch with the project maintainers.
 
 ## GitHub Pages
 
-You can find the project documentation on [GitHub Pages](https://yourusername.github.io/yourproject/).
+You can find the project documentation on [GitHub Pages](https://ogagacodes.github.io/projects/).
