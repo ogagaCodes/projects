@@ -5,8 +5,22 @@ const projectData = [
   {
     company: "Ajua",
     project: "MTN Engage App",
-    description: "Backend for microservices hosted on AWS ECR and EKS.",
+    description:
+      "Backend for microservices wity python fastapi hosted on AWS ECR and EKS.",
     links: { dashboard: "https://ajua.com/" },
+  },
+  {
+    company: "Mixpeek",
+    project: "Mixpeek SDK",
+    description: "Development of the Mixpeek SDK and engine.",
+    links: { dashboard: "https://mixpeek.com/" },
+  },
+  {
+    company: "Softcom",
+    project: "Eyowo Digital Bank",
+    description:
+      "Backend for microservices with golang and nodejs hosted on AWS ECR and EKS",
+    links: { dashboard: "https://www.eyowo.com/" },
   },
   {
     company: "Bii",
@@ -19,12 +33,6 @@ const projectData = [
     project: "Admoni App",
     description: "Mobile app available on PlayStore for advertisers.",
     links: { dashboard: "https://admoni.ng/" },
-  },
-  {
-    company: "Mixpeek",
-    project: "Mixpeek SDK",
-    description: "Development of the Mixpeek SDK and engine.",
-    links: { dashboard: "https://mixpeek.com/" },
   },
   {
     company: "Research Buddy",
